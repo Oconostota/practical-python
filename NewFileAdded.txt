@@ -1,0 +1,22 @@
+thon Programming
+https://dabeaz-course.github.io/practical-python/Notes/Contents.html
+
+https://github.com/dabeaz-course/practical-python
+
+##Forked GitHub Repo
+Log-In to GitHub
+GoTo https://github.com/dabeaz-course/practical-python
+Select Fork at Top of Page
+
+##Clone GitHub Repo
+Move to Target Folder
+admmrw@Flower:~/NetFileShare/code$
+git clone https://github.com/Oconostota/practical-python
+
+##Verify Status
+git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+##Push back to Fork after Updates
+git origin push 
